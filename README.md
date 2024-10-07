@@ -14,15 +14,4 @@
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="border: 1px solid #2D333B; padding: 15px; background-color: #0d1117; border-radius: 8px;">
-        <blockquote>
-          <p align="center" style="color:#00C7A7; font-size: 18px;">"Object-oriented design is the roman numerals of computing."</p>
-          <p align="center" style="color:#6E7681;">— <i>Rob Pike</i></p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6420e55865f3deb88a91e4dd945a71fc9c90555e080b6d0911a024c8f9a7341a/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/6420e55865f3deb88a91e4dd945a71fc9c90555e080b6d0911a024c8f9a7341a/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=vetical&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
