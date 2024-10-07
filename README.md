@@ -13,7 +13,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## ✍️ Random Dev Quote
-> "Object-oriented design is the roman numerals of computing."
->
-> — *Rob Pike*
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: 1px solid #2D333B; padding: 15px; background-color: #0d1117; border-radius: 8px;">
+        <blockquote>
+          <p align="center" style="color:#00C7A7; font-size: 18px;">"Object-oriented design is the roman numerals of computing."</p>
+          <p align="center" style="color:#6E7681;">— <i>Rob Pike</i></p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
