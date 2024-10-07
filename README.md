@@ -1,8 +1,8 @@
 # 👋 About Me:
-- 🌟 Currently pursuing a Diploma in Computer Engineering at Pimpri-Chinchwad Polytechnic
-- 🌟 I love working on projects that involve Java
-- 🌟 Always eager to learn new concepts and technologies
-- 🌟 I enjoy the creative side of coding, from design to implementation
+- 📚  Currently pursuing a Diploma in Computer Engineering at Pimpri-Chinchwad Polytechnic
+- 💻 I love working on projects that involve Java
+- 🌱 Always eager to learn new concepts and technologies
+- 🎨 I enjoy the creative side of coding, from design to implementation
 
 ## 🛠 Tech Stack:
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
