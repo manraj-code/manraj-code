@@ -1,4 +1,4 @@
-# 👋 About Me:
+# 👋 About Me
 - 📚  Currently pursuing a Diploma in Computer Engineering at Pimpri-Chinchwad Polytechnic
 - 💻 I love working on projects that involve Java
 - 🌱 Always eager to learn new concepts and technologies
@@ -12,6 +12,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">📫 Connect with Me</h3><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📫 Connect with Me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<ul dir="auto">
+<li>LinkedIn: <a href="https://www.linkedin.com/in/manthan-marathe-15249a257" rel="nofollow">https://www.linkedin.com/in/manthan-marathe-15249a257</a></li>
+<li>Email: <a href="mailto:manthanmarathe223@gmail.com">manthanmarathe223@gmail.com</a></li>
+</ul>
+
 ## ✍️ Random Dev Quote
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6420e55865f3deb88a91e4dd945a71fc9c90555e080b6d0911a024c8f9a7341a/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/6420e55865f3deb88a91e4dd945a71fc9c90555e080b6d0911a024c8f9a7341a/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=vetical&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
+
+<hr>
+<p dir="auto">💡 <strong>Fun Fact</strong>: I love solving coding challenges and collaborating with other developers!</p>
